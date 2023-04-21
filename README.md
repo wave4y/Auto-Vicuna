@@ -2,7 +2,7 @@
 
 ## 0x1 Prerequisite
 
-install [vicuna](https://github.com/lm-sys/FastChat)
+install [vicuna](https://github.com/lm-sys/FastChat) &
 model [example](https://huggingface.co/eachadea/vicuna-13b-1.1)
 
 install Auto-GPT based on the DGdev91's PR #2594 (2023/04/22). You can do this by:
@@ -48,6 +48,6 @@ to
 ```
 I don't know why, maybe fastchat not support temperature & max_tokens.
 
-## todo
+## 0x3 todo
 
 `Vicuna` may not be generate command to excute, maybe add more prompt.
